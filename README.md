@@ -1,4 +1,4 @@
-# locale-data-science-task
+# data-science-task
 
 Problems:
 Solutions:
